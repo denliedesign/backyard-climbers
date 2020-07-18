@@ -1,0 +1,158 @@
+*, head, body {
+    font-family: "Impact";
+    font-size: 16px;
+}
+
+p, button, a, small, td {
+    font-family: "Baskerville";
+}
+
+.head-wrap {
+    height: 500px;
+    width: 100%;
+    position: relative;
+}
+
+.head {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background: url("/images/best-climbers-for-kids.jpg") no-repeat fixed top;
+}
+
+.top-wrap {
+    height: 300px;
+    width: 100%;
+    position: relative;
+}
+
+.top {
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background: url("/images/kids-play-sets-small.jpg") no-repeat fixed bottom;
+}
+
+#head-content {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#head-content h1 {
+    background: #463626;
+    padding: 10px 20px;
+}
+
+#head-content button,
+.ratings-summary button {
+    background: #5c7646;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.6),
+    -2px -2px 6px rgba(255,255,255,0.6);
+}
+
+#head-content button:hover,
+.ratings-summary button:hover {
+    background: #7C9864;
+}
+
+#home-lists {
+    background: linear-gradient(to top left, #5c7646, #7C9864);
+}
+
+.list-item-wrap {
+    /*border: 2px solid #463626;*/
+    border-radius: 5px;
+    padding: 5px;
+    background: white;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.6),
+    -2px -2px 4px rgba(255,255,255,0.6);
+    position: relative;
+}
+
+#about {
+    background: url("/images/leaves.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: bottom;
+}
+
+#about-img {
+    border: 4px solid #463626;
+    border-radius: 5px;
+}
+
+#logo {
+    width: 75px;
+}
+
+ion-icon {
+    font-size: 2.75em;
+    color: goldenrod;
+    margin-top: 5px;
+}
+
+.trophy {
+    text-align: center;
+    padding: 4px 8px;
+    background: white;
+    border-radius: 50%;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.6),
+    -2px -2px 4px rgba(255,255,255,0.6);
+    position: absolute;
+    top: -25px;
+    right: -10px;
+    z-index: 3;
+}
+
+.sitemap-nav {
+    list-style-type: none;
+}
+
+.ratings-summary img {
+    height: 30px;
+    width: auto;
+}
+
+.bg-green {
+    background: #5c7646;
+}
+
+.sub-header {
+    font-size: 2em;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.list-item-wrap a {
+    color: black;
+}
+
+.list-item-wrap a:hover {
+    text-decoration: none;
+}
+
+.list-item-wrap:hover {
+    transform: rotate(2deg);
+}
+
+.bg-gold {
+    background: goldenrod;
+    color: white;
+    border-radius: 10px;
+}
+
+.number-one {
+    font-size: 3em;
+    color: white;
+    width: max-content;
+    border: 2px solid goldenrod;
+    padding: 5px 27.5px;
+    border-radius: 50%;
+    background: goldenrod;
+    /*margin: 0 auto 20px auto;*/
+}
