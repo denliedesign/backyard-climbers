@@ -36,7 +36,7 @@
                     {{--                    <img src="/images/banana-half.png" alt="">--}}
                     {{--                </td>--}}
                     <td>$191.41</td>
-                    <td><a href="https://www.amazon.com/dp/B01NB083L5/?coliid=I251VHOIEUZN3R&colid=279QRPKZBFKWR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td><a href="https://amzn.to/32DtKed" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -56,9 +56,9 @@
                     {{--                </td>--}}
                     <td>$169.99 +<br>$109.99</td>
                     <td>
-                        <a href="https://www.amazon.com/dp/B07JMJ15L4/?coliid=I1JVV7JP140YZF&colid=279QRPKZBFKWR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a>
+                        <a href="https://amzn.to/39bvjBm" target="_blank"><button class="btn text-white">Amazon</button></a>
                         <br>
-                        <a href="https://www.amazon.com/dp/B07JMD1P78/?coliid=I3UCGYZDDQGEW3&colid=279QRPKZBFKWR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white mt-1">Amazon</button></a>
+                        <a href="https://amzn.to/3fKT7hU" target="_blank"><button class="btn text-white mt-1">Amazon</button></a>
                     </td>
                 </tr>
                 <tr>
@@ -74,7 +74,7 @@
                     {{--                    <img src="/images/banana-half.png" alt="">--}}
                     {{--                </td>--}}
                     <td>$239.99</td>
-                    <td><a href="https://www.amazon.com/dp/B004JZVPTM/?coliid=I2IVOZP5D3LS5S&colid=279QRPKZBFKWR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td><a href="https://amzn.to/2CKURcc" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -89,7 +89,7 @@
                     {{--                    <img src="/images/banana-half.png" alt="">--}}
                     {{--                </td>--}}
                     <td>$761.40</td>
-                    <td><a href="https://www.amazon.com/dp/B001EHN15O/?coliid=I2LA6PUGME3SUA&colid=1R2SRP740517Z&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td><a href="https://amzn.to/3heG8Fw" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -104,7 +104,7 @@
                     {{--                    <img src="/images/banana-half.png" alt="">--}}
                     {{--                </td>--}}
                     <td>$69.99</td>
-                    <td><a href="https://www.amazon.com/dp/B07KG53V2W/?coliid=I3H49XJJJTYDDS&colid=279QRPKZBFKWR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td><a href="https://amzn.to/2CS9LNJ" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
                     <td>6</td>
@@ -119,7 +119,7 @@
                     {{--                    <img src="/images/banana-half.png" alt="">--}}
                     {{--                </td>--}}
                     <td>$116.03</td>
-                    <td><a href="https://www.amazon.com/dp/B077XW5JB3/?coliid=I26O3NUZFBWQDH&colid=279QRPKZBFKWR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td><a href="https://amzn.to/30vRka6" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
 
                 </tbody>

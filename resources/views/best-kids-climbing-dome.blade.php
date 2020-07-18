@@ -35,7 +35,7 @@
                     <td>83 lbs</td>
                     <td>750 lbs</td>
                     <td>$299.96</td>
-                    <td><a href="https://www.amazon.com/dp/B07ZQCSYSH/?coliid=ISRD877GBN3LU&colid=ITQC6Y2VCBTR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td><a href="https://amzn.to/3eIXl86" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -46,7 +46,7 @@
                     <td>NA</td>
                     <td>600 lbs</td>
                     <td>NA</td>
-                    <td><a href="https://www.amazon.com/dp/B07VXZ1G2B/?coliid=I1WSPQJ9XNOKFB&colid=ITQC6Y2VCBTR&ref_=lv_ov_lig_dp_it&th=1" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td><a href="https://amzn.to/3eB7gg8" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -57,7 +57,7 @@
                     <td>77.5 lbs</td>
                     <td>1000 lbs</td>
                     <td>$269.99</td>
-                    <td><a href="https://www.amazon.com/dp/B001C81DO6/?coliid=I2AQ1O8PB3IZI8&colid=ITQC6Y2VCBTR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td><a href="https://amzn.to/2CP3GSa" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -68,7 +68,7 @@
                     <td>65.7 lbs</td>
                     <td>567 lbs</td>
                     <td>$279.99</td>
-                    <td><a href="https://www.amazon.com/dp/B085SVFYBP/?coliid=I1LJYAB5HW2RPJ&colid=ITQC6Y2VCBTR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td><a href="https://amzn.to/3fIFwHQ" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 </tbody>
             </table>
@@ -99,8 +99,8 @@
                     <td>5.5ft x 5.8ft</td>
                     <td>27 lbs</td>
                     <td>150 lbs</td>
-                    <td>NA</td>
-                    <td><a href="https://www.amazon.com/dp/B007GQ0YKC/?coliid=IDNXYLVUK50WB&colid=ITQC6Y2VCBTR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td>$144.43</td>
+                    <td><a href="https://amzn.to/2WvAtmf" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -111,7 +111,7 @@
                     <td>46.3 lbs</td>
                     <td>439 lbs</td>
                     <td>$122.99</td>
-                    <td><a href="https://www.amazon.com/dp/B07ZKLRDLF/?coliid=IKJII713C62WG&colid=ITQC6Y2VCBTR&psc=1&ref_=lv_ov_lig_dp_it" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                    <td><a href="https://amzn.to/2OD2XX4" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 </tbody>
             </table>
