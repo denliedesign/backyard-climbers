@@ -8,7 +8,7 @@
     <div class="container">
         <h1 class="text-center mt-5">Best Kid's Foam Mats of Summer 2020</h1>
         <p class="text-center mb-0">These are the best floor mats for children. The list includes foam playsets and crawling toys.</p>
-        <p class="text-muted text-center p-0 m-0"><small>July 18, 2020</small></p>
+        <p class="text-muted text-center p-0 m-0"><small>July 25, 2020</small></p>
         <div class="table-responsive">
             <table class="table ratings-summary my-5 mt-0">
                 <thead>

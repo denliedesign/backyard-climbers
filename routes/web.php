@@ -29,6 +29,10 @@ Route::get('best-montessori-climber', function () {
     return view('best-montessori-climber');
 });
 
+Route::get('best-slide-and-swing-play-set', function () {
+    return view('best-slide-and-swing-play-set');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

@@ -19,6 +19,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/best-montessori-climber">Triangles</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/best-slide-and-swing-play-set">Slides & Swings</a>
+                </li>
 {{--                <li class="nav-item">--}}
 {{--                    <a class="nav-link" href="#">Toddler</a>--}}
 {{--                </li>--}}

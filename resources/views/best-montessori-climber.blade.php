@@ -8,7 +8,7 @@
     <div class="container">
         <h1 class="text-center mt-5">Best Montessori Climber of Summer 2020</h1>
         <p class="text-center mb-0">The best montessori climbing toy is no doubt the Pikler triangle. Here is our list for the best Pikler triangle set.</p>
-        <p class="text-muted text-center p-0 m-0"><small>July 18, 2020</small></p>
+        <p class="text-muted text-center p-0 m-0"><small>July 25, 2020</small></p>
         <div class="table-responsive">
             <table class="table ratings-summary my-5 mt-0">
                 <thead>
@@ -38,14 +38,15 @@
                 </tr>
                 <tr>
                     <td>2</td>
-                    <td><img style="height: 100px;" src="/images/rad-kids-climbing-triangle.jpg" alt="" class="img-fluid"></td>
-                    <td>RAD Kid's Furniture Climbing Triangle</td>
-                    <td>USA</td>
+                    <td><img style="height: 100px;" src="/images/woodandhearts-montessori-furniture-set.jpg" alt="" class="img-fluid"></td>
+                    <td>PetsHelperCo Montessori Furniture Set (With Bonus Pikler Arch!)</td>
+                    <td>Ukraine</td>
                     <td>Birch</td>
                     <td>Foldable</td>
-                    <td>$235</td>
-                    <td>$345</td>
-                    <td><a href="https://www.etsy.com/listing/669979172/made-in-usa-pikler-triangle-climbing?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=RAD+Kid%26%2339%3Bs+Furniture+Climbing+Triangle&ref=sr_gallery-1-4&organic_search_click=1&frs=1" target="_blank"><button class="btn text-white">Etsy</button></a></td>
+                    <td>$129.50 + shipping</td>
+                    <td>$267.75 + shipping</td>
+                    {{--                    <td><a href="https://www.etsy.com/listing/737449632/montessori-furniture-set-of-three-items?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=Woodandhearts+Montessori+Furniture+Set&ref=sc_gallery-1-1&plkey=5fe6faa98fc8fd47c121dd55cee58219b4bfd8cd%3A737449632&pro=1" target="_blank"><button class="btn text-white">Etsy</button></a></td>--}}
+                    <td><a href="https://amzn.to/3hy562E" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -60,14 +61,14 @@
                 </tr>
                 <tr>
                     <td>4</td>
-                    <td><img style="height: 100px;" src="/images/woodandhearts-montessori-furniture-set.jpg" alt="" class="img-fluid"></td>
-                    <td>Woodandhearts Montessori Furniture Set</td>
-                    <td>Ukraine</td>
+                    <td><img style="height: 100px;" src="/images/rad-kids-climbing-triangle.jpg" alt="" class="img-fluid"></td>
+                    <td>RAD Kid's Furniture Climbing Triangle</td>
+                    <td>USA</td>
                     <td>Birch</td>
                     <td>Foldable</td>
-                    <td>$129.50 + shipping</td>
-                    <td>$267.75 + shipping</td>
-                    <td><a href="https://www.etsy.com/listing/737449632/montessori-furniture-set-of-three-items?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=Woodandhearts+Montessori+Furniture+Set&ref=sc_gallery-1-1&plkey=5fe6faa98fc8fd47c121dd55cee58219b4bfd8cd%3A737449632&pro=1" target="_blank"><button class="btn text-white">Etsy</button></a></td>
+                    <td>$235</td>
+                    <td>$345</td>
+                    <td><a href="https://www.etsy.com/listing/669979172/made-in-usa-pikler-triangle-climbing?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=RAD+Kid%26%2339%3Bs+Furniture+Climbing+Triangle&ref=sr_gallery-1-4&organic_search_click=1&frs=1" target="_blank"><button class="btn text-white">Etsy</button></a></td>
                 </tr>
                 <tr>
                     <td>5</td>
