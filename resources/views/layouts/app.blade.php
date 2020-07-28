@@ -11,6 +11,8 @@
         gtag('config', 'UA-134589403-2');
     </script>
 
+    <script data-ad-client="ca-pub-2243103720155199" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="@yield('description', 'We Find The Best Climbing Toys For Kids. Lists of Montessori Climbing Toys, Dome Climbers, And Foam Play Sets. We Select Inexpensive, Fun, Safe, And Non-Toxic Climbers!')">
