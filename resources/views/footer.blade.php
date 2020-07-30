@@ -15,6 +15,7 @@
                 <div class="row">
                     <div class="col-sm p-0 m-0">
                         <ul class="sitemap-nav">
+                            <li><a href="/best-kid-climber">Climbers</a></li>
                             <li><a href="/best-kid-foam-mats">Foam Mats</a></li>
                             <li><a href="/best-kids-climbing-dome">Climbing Domes</a></li>
                             <li><a href="/best-montessori-climber">Pikler Triangles</a></li>

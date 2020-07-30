@@ -33,6 +33,10 @@ Route::get('best-slide-and-swing-play-set', function () {
     return view('best-slide-and-swing-play-set');
 });
 
+Route::get('best-kid-climber', function () {
+    return view('best-kid-climber');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

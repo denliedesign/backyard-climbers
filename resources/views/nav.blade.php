@@ -11,6 +11,9 @@
                     <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="/best-kid-climber">Climbers</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="/best-kid-foam-mats">Mats</a>
                 </li>
                 <li class="nav-item">
