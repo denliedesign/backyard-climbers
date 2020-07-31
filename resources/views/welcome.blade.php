@@ -4,7 +4,7 @@
     <div class="head-wrap">
         <div class="head"></div>
         <div id="head-content" class="text-center text-white">
-            <h1>Climbers for Kids</h1>
+            <h1>We Find the Best Climbers for Kids</h1>
             <a href="/best-kids-climbing-dome"><button class="btn btn-lg text-white">See The Top Dome Climbers</button></a>
         </div>
     </div>
@@ -31,7 +31,7 @@
                             <div class="col-sm list-item-text">
                                 <div class="trophy d-none d-md-block"><ion-icon name="trophy"></ion-icon></div>
                                 <h4 class="mb-0">Best Kid Climber of Summer 2020</h4>
-                                <p>Lightweight, easy assembly, backyard playgrounds that can be used indoors and outdoors. This list has various climbing toys for toddlers and older kids.</p>
+                                <p>Kid Climbers are lightweight, easy assembly, backyard playgrounds that can be used indoors and outdoors. This list has various climbing toys for toddlers and older kids.</p>
                             </div>
                         </div>
                     </a>

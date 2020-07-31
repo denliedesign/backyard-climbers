@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Backyard Climbers | Best Kid Climber')
+@section('title', 'Backyard Climbers | Best Kid Climbers')
 @section('content')
 
     <div class="top-wrap">
