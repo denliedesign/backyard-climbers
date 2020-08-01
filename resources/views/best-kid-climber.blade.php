@@ -32,6 +32,14 @@
                 </tr>
                 <tr>
                     <td>2</td>
+                    <td><img style="height: 100px; width: auto;" src="/images/step2-kids-outdoor-playset.jpg" alt="" class=""></td>
+                    <td>Step2 Naturally Playful Woodland Climber II</td>
+                    <td>2-8</td>
+                    <td>$299.99</td>
+                    <td><a href="https://amzn.to/2Xe0neY" target="_blank"><button class="btn text-white">Amazon</button></a></td>
+                </tr>
+                <tr>
+                    <td>3</td>
                     <td><img style="height: 100px; width: auto;" src="/images/simplay3-childrens-climber.jpg" alt="" class=""></td>
                     <td>Simplay3 Young Explorers Adventure Climbers</td>
                     <td>1.5-6</td>
@@ -39,7 +47,7 @@
                     <td><a href="https://amzn.to/2XcsT0h" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
-                    <td>3</td>
+                    <td>4</td>
                     <td><img style="height: 100px; width: auto;" src="/images/ecr4kids-activity-park-playhouse-for-kids.jpg" alt="" class=""></td>
                     <td>ECR4Kids Activity Park Playhouse for Kids</td>
                     <td>3-5</td>
@@ -47,7 +55,7 @@
                     <td><a href="https://amzn.to/3fhK72p" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
-                    <td>4</td>
+                    <td>5</td>
                     <td><img style="height: 100px; width: auto;" src="/images/step2-clubhouse-climber.jpg" alt="" class=""></td>
                     <td>Step2 Clubhouse Climber</td>
                     <td>2-6</td>
@@ -55,7 +63,7 @@
                     <td><a href="https://amzn.to/2BHbxBa" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
-                    <td>5</td>
+                    <td>6</td>
                     <td><img style="height: 100px; width: auto;" src="/images/active-play-jungle-gym-playset.jpg" alt="" class=""></td>
                     <td>Eezy Peezy Active Play Jungle Gym PlaySet </td>
                     <td>1-3</td>
@@ -63,7 +71,7 @@
                     <td><a href="https://amzn.to/3jNX73o" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
-                    <td>6</td>
+                    <td>7</td>
                     <td><img style="height: 100px; width: auto;" src="/images/step2-panda-climber-for-toddler.jpg" alt="" class=""></td>
                     <td>Step2 Panda Climber for Toddler</td>
                     <td>1.5-5</td>
@@ -93,7 +101,7 @@
                         <br><br>Backyard Climber's is a website dedicated to getting kids to move and climb. How could I not choose this magnificent mountain? Skyward Summit is the king of climbers, you won't find anything else like it.
                         <br><br>This climbing activity play set is very popular and frequently out of stock. If you see it available on Amazon, I would suggest you act fast!
                         <br><br>Although pricey, you get a lot more than cheaper alternatives. It's competitors offer small scale stairs, slides, platforms, tunnels, and windows. This on the other hand is a mountain sure to excite with rock climbing, cargo nets, hand grips, climbing holes, platforms, lookout posts, and a hideout that makes you feel like you're inside a cave.
-                        <br><br>Skyward Summit is for older kids though. The recommended age is 4-8. If you have a younger one, then I would get Simplay3's Young Explorers Adventure Climbers, our choice for best value!
+                        <br><br>Skyward Summit is for older kids though. The recommended age is 4-8. If you have a younger one, then I would get Step2 Naturally Playful Woodland Climber II, our choice for best value!
                         <br><br>You're children will love this climbing mountain. Skyward Summit is my top pick for best children's climber!
                     </p>
                 </div>
