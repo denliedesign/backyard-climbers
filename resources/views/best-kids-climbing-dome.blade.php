@@ -5,6 +5,7 @@
     <div class="top-wrap">
         <div class="top"></div>
     </div>
+    <img src="/images/kids-climbing-dome.jpg" alt="pandas on kids climbing dome" class="img-fluid d-none">
     <div class="container">
         <h1 class="text-center mt-5">Best Kid's Climbing Dome of Summer 2020</h1>
         <p class="text-center mb-0">These are the best dome climbers for children. The list includes indoor and outdoor climbing domes with varying sizes and weights.</p>
