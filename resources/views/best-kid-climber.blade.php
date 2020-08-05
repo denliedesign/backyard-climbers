@@ -5,6 +5,7 @@
     <div class="top-wrap">
         <div class="top"></div>
     </div>
+    <img src="/images/kids-climbing-mountain.jpg" class="img-fluid d-none" alt="kids climbing toy mountain">
     <div class="container">
         <h1 class="text-center mt-5">Best Kid Climber of Summer 2020</h1>
         <p class="text-center mb-0">Lightweight, easy assembly, backyard playgrounds that can be used indoors and outdoors. These are the best kid climber playsets of 2020.</p>
