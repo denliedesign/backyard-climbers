@@ -5,7 +5,7 @@
     <div class="top-wrap">
         <div class="top"></div>
     </div>
-    <img src="/images/kids-climber-foam-logs" alt="girl on foam log playset" class="img-fluid d-none">
+    <img src="/images/kids-climber-foam-logs.jpg" alt="girl on foam log playset" class="img-fluid d-none">
     <div class="container">
         <h1 class="text-center mt-5">Best Kid's Foam Mats of Summer 2020</h1>
         <p class="text-center mb-0">These are the best floor mats for children. The list includes foam playsets and crawling toys.</p>
