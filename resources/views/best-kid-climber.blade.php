@@ -9,7 +9,8 @@
     <div class="container">
         <h1 class="text-center mt-5">Best Kid Climber of Summer 2020</h1>
         <p class="text-center mb-0">Lightweight, easy assembly, backyard playgrounds that can be used indoors and outdoors. These are the best kid climber playsets of 2020.</p>
-        <p class="text-muted text-center p-0 m-0"><small>July 30, 2020</small></p>
+        <p class="text-muted text-center p-0 m-0"><small>As an Amazon Associate I earn from qualifying purchases.</small></p>
+        <p class="text-muted text-center p-0 m-0"><small>August 9, 2020</small></p>
         <div class="table-responsive">
             <table class="table ratings-summary my-5 mt-0">
                 <thead>

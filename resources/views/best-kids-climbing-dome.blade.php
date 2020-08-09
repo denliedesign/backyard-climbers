@@ -9,7 +9,8 @@
     <div class="container">
         <h1 class="text-center mt-5">Best Kid's Climbing Dome of Summer 2020</h1>
         <p class="text-center mb-0">These are the best dome climbers for children. The list includes indoor and outdoor climbing domes with varying sizes and weights.</p>
-        <p class="text-muted text-center p-0 m-0"><small>July 25, 2020</small></p>
+        <p class="text-muted text-center p-0 m-0"><small>As an Amazon Associate I earn from qualifying purchases.</small></p>
+        <p class="text-muted text-center p-0 m-0"><small>August 9, 2020</small></p>
         <p class="text-uppercase mt-5 mb-0 sub-header">OUTDOOR CLIMBERS</p>
         <div class="table-responsive">
             <table class="table ratings-summary mb-5 mt-0">
