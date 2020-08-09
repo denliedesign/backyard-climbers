@@ -57,6 +57,14 @@ p, button, a, small, td {
     background: #7C9864;
 }
 
+.btn-pick {
+    background: goldenrod;
+}
+
+.btn-pick:hover {
+    background: #E8BC4C;
+}
+
 #home-lists {
     background: linear-gradient(to top left, #5c7646, #7C9864);
 }

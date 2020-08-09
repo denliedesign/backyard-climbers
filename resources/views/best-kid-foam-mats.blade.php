@@ -146,6 +146,8 @@
                         <br><br>After browsing every brand that I could find, ECR4Kids stands out from the crowd as a company that prioritizes safety and using non-toxic materials. They are GREENGUARD[GOLD] and CertiPUR-US certified and use no phthalates in their foam mats. This is a big deal, especially when there are competing companies that don't take these extra safety measures!
                         <br><br>While there are fun butterfly, rainbow, and log mats out there that will inspire creativity in your child and jealousy in your friends, this single-tunnel foam climber is the best value and therefore our top pick!
                     </p>
+                    <a href="https://amzn.to/32DtKed" target="_blank"><button class="btn text-white btn-lg btn-pick">Amazon</button></a>
+
                 </div>
             </div>
         </div>

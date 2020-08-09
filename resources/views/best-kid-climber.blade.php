@@ -106,6 +106,7 @@
                         <br><br>Skyward Summit is for older kids though. The recommended age is 4-8. If you have a younger one, then I would get Step2 Naturally Playful Woodland Climber II, our choice for best value!
                         <br><br>You're children will love this climbing mountain. Skyward Summit is my top pick for best children's climber!
                     </p>
+                    <a href="https://amzn.to/2EvWYS1" target="_blank"><button class="btn btn-lg text-white btn-pick">Amazon</button></a>
                 </div>
             </div>
         </div>

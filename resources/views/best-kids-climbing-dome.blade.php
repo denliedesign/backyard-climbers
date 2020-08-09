@@ -137,6 +137,8 @@
                         <br><br>Dome Climbers help children build muscles, develop critical life skills and gain self-confidence. They provide a playground for one’s all-around health, creativity, and development.
                         <br><br>With a 3-year warranty, 5 star rating on Amazon, and only $30 more than its smaller-sized competitor, Zupapa is our pick for the best outdoor climber!
                     </p>
+                    <a href="https://amzn.to/3eIXl86" target="_blank"><button class="btn text-white btn-lg btn-pick">Amazon</button></a>
+
                 </div>
             </div>
         </div>
