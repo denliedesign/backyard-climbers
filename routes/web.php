@@ -37,6 +37,10 @@ Route::get('best-kid-climber', function () {
     return view('best-kid-climber');
 });
 
+Route::get('new-climbers-for-kids', function () {
+    return view('new-climbers-for-kids');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

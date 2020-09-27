@@ -22,6 +22,21 @@
             <h1 class="text-center text-white">Recent Lists</h1>
             <div class="row">
                 <div class="col-sm list-item-wrap m-1">
+                    <a href="/new-climbers-for-kids">
+                        <p class="text-center bg-gold mb-1">9mo - 12 years old</p>
+                        <div class="row">
+                            <div class="col-sm d-flex align-items-center justify-content-center">
+                                <img style="max-height: 200px;" src="/images/play-barn-tunnel-climber-farm-playset.jpg" alt="farm foam climber playset" class="img-fluid">
+                            </div>
+                            <div class="col-sm list-item-text">
+                                <div class="trophy d-none d-md-block"><ion-icon name="trophy"></ion-icon></div>
+                                <h4 class="mb-0">Best New Climbers for Kids | Fall 2020</h4>
+                                <p>Our favorite new climbers available for the fall season. Includes indoor and outdoor climbers.</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm list-item-wrap m-1">
                     <a href="/best-kid-climber">
                         <p class="text-center bg-gold mb-1">1 - 8 years old</p>
                         <div class="row">

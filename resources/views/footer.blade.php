@@ -20,6 +20,7 @@
                             <li><a href="/best-kids-climbing-dome">Climbing Domes</a></li>
                             <li><a href="/best-montessori-climber">Pikler Triangles</a></li>
                             <li><a href="/best-slide-and-swing-play-set">Slide & Swing Sets</a></li>
+                            <li><a href="/new-climbers-for-kids">All</a></li>
                         </ul>
                     </div>
 {{--                    <div class="col-sm p-0 m-0">--}}
