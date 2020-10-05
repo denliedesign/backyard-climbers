@@ -44,10 +44,10 @@
                     <td><img src="/images/lifetime-childrens-climbing-dome.jpg" alt="" class="img-fluid"></td>
                     <td>Lifetime Geometric Dome Climber Play Center</td>
                     <td>3-10</td>
-                    <td>10ft x 5ft</td>
+                    <td>10ft x 5ft (60in.)</td>
                     <td>NA</td>
                     <td>600 lbs</td>
-                    <td>NA</td>
+                    <td>$249.99</td>
                     <td><a href="https://amzn.to/3eB7gg8" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>

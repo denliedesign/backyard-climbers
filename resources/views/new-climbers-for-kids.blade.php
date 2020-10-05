@@ -27,7 +27,7 @@
                     <td><img style="height: 100px; width: auto;" src="/images/toddler-foam-playset-climbing-toy.jpg" alt="toddler foam playset climbing toy" class=""></td>
                     <td>MAGIFIRE Toddler Playset Inflatable Foam Blocks</td>
                     <td>9mo-3yr</td>
-                    <td>NA</td>
+                    <td>$80</td>
                     <td><a href="https://amzn.to/3i3QAiZ" target="_blank"><button class="btn text-white">Amazon</button></a></td>
                 </tr>
                 <tr>
